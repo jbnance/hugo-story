@@ -1,5 +1,5 @@
-[!NOTE]
-This is a fork of https://github.com/caressofsteel/hugo-story, which appears to have been abandoned.  The intent of this fork is to just keep the original theme working with Hugo without significant alterations.
+> [!NOTE]
+> This is a fork of https://github.com/caressofsteel/hugo-story, which appears to have been abandoned.  The intent of this fork is to just keep the original theme working with Hugo without significant alterations.
 
 # Hugo Story
 ## A (modular, highly tweakable) responsive one-page theme for Hugo.
